@@ -8,7 +8,7 @@ Instructions for use:
 - Drag and drop Container ID folder (containing episode .itmsps with metadata XMLs) from Finder onto app
 - Hit submit and .txt is created
 - .txt opens in default application
-  
+---
 I used:
 - Python 2.7
 - wxPython (a GUI framework)
