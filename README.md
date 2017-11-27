@@ -7,7 +7,9 @@ This app pulls the episode description from each iTunes TV metadata XML and stor
 Instructions for use:
 - Drag and drop Container ID folder (containing episode .itmsps with metadata XMLs) from Finder onto app
 - Hit submit and .txt is created
-- .txt opens in default application
+- .txt opens in default application for spellchecking
+
+Requires compilation with py2app or similar.
 ---
 I used:
 - Python 2.7
