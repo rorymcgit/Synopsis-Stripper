@@ -10,6 +10,8 @@ Instructions for use:
 - .txt opens in default application for spellchecking
 
 Requires compilation with py2app or similar.
+
+
 ---
 I used:
 - Python 2.7
